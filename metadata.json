@@ -1,0 +1,14 @@
+{
+  "name": "Arbaz Fashion | Luxury Minimalist Collective",
+  "description": "Premium clothing brand offering silent luxury and minimalist aesthetic. Shop our Season 01 essentials.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "keywords": [
+    "fashion",
+    "clothing",
+    "minimalism",
+    "arbaz",
+    "luxury brand"
+  ]
+}
